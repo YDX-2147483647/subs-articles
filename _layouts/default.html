@@ -26,7 +26,7 @@ https://github.com/pages-themes/architect/blob/27f3b20dfb55063555c3f029dcffe75f3
 
     <header>
       <div class="inner">
-        <a href="{{ '/' | absolute_url }}">
+        <a href="{{ '/' | relative_url }}">
           <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
@@ -58,7 +58,7 @@ https://github.com/pages-themes/architect/blob/27f3b20dfb55063555c3f029dcffe75f3
           {% endif %}
 
           {% if site.github.is_project_page %}
-            <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a>由<a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>维护。</p>
+            <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> 由 <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> 维护。</p>
           {% endif %}
 
           <p>此页面由 <a href="https://pages.github.com">GitHub Pages</a> 生成。</p>

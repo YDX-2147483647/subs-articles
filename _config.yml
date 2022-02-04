@@ -2,10 +2,13 @@ title: 推送
 description: 展示推送（subscription articles）。
 lang: zh-CN
 
+domain: ydx-2147483647.github.io
+url: https://ydx-2147483647.github.io
+baseurl: /subs-articles
+github_username: YDX-2147483647
+
 theme: jekyll-theme-architect
 show_downloads: false
-github:
-  is_project_page: false
 
 plugins:
   - jekyll-feed
@@ -21,3 +24,7 @@ defaults:
       type: articles
     values:
       layout: default
+
+exclude:
+  - /.vscode/
+  - /README.md
