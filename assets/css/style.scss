@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#skip-to-content {
+    // From cayman.
+    
+    height: 1px;
+    width: 1px;
+    position: absolute;
+    overflow: hidden;
+    top: -10px;
+
+    &:focus {
+        position: fixed;
+        top: 10px;
+        left: 10px;
+        height: auto;
+        width: auto;
+        background: invert(#2879d0);
+        outline: thick solid invert(#2879d0);
+    }
+}
+
+:where(main, aside, figure, details, blockquote) > p {
+    text-indent: 2em;
+}
+
+figcaption {
+    text-align: center;
+}

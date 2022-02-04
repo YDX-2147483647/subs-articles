@@ -1,0 +1,23 @@
+title: 推送
+description: 展示推送（subscription articles）。
+lang: zh-CN
+
+theme: jekyll-theme-architect
+show_downloads: false
+github:
+  is_project_page: false
+
+plugins:
+  - jekyll-feed
+
+collections:
+  articles:
+    output: true
+    permalink: /:name/
+
+defaults:
+  - scope:
+      path: ''
+      type: articles
+    values:
+      layout: default
