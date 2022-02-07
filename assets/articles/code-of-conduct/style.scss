@@ -1,0 +1,15 @@
+---
+---
+
+#词典 + p + p + ol {
+    li {
+        margin-bottom: 1em;
+
+        & > p {
+            margin-bottom: 0.25em;
+        }
+        & > p:not(:first-child) {
+            color: darkgray;
+        }
+    }
+}

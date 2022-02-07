@@ -1,2 +1,7 @@
 <!-- Analytics -->
 <script data-host="https://microanalytics.io" data-dnt="false" src="https://microanalytics.io/js/script.js" id="ZwSg9rf6GA" async defer></script>
+
+{% if page.style %}
+    <!-- Custom Style -->
+    <link rel="stylesheet" href="{{ page.style | append: '.css' | relative_url }}">
+{% endif %}

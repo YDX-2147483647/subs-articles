@@ -3,9 +3,17 @@
 
 @import "{{ site.theme }}";
 
+details{
+    margin-bottom: 1em;
+}
+
+summary {
+    display: list-item;
+}
+
 #skip-to-content {
     // From cayman.
-    
+
     height: 1px;
     width: 1px;
     position: absolute;
@@ -29,4 +37,12 @@
 
 figcaption {
     text-align: center;
+}
+
+#main-content {
+    figure > img {
+        display: flex;
+        margin: auto;
+        max-width: 20em;
+    }
 }
