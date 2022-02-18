@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-details{
+details {
     margin-bottom: 1em;
 }
 
@@ -43,6 +43,6 @@ figcaption {
     figure > img {
         display: flex;
         margin: auto;
-        max-width: 20em;
+        max-width: min(40em, 100%);
     }
 }
