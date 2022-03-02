@@ -1,12 +1,16 @@
 ---
 title: 何谓 Code of Conduct？
 description: Most developers code C++ like C. ——牛津词典
+
 style: /assets/articles/code-of-conduct/style
+mermaid: true
 ---
 
 # 何谓 Code of Conduct？
 
 > 2022 年 1 月 28 日、2 月 4–7 日。
+>
+> 本文的其它版本：[微信](https://mp.weixin.qq.com/s/zccs-RgZjSbonUMZg0jykg)、[WriteBug.com](https://www.writebug.com/group/article/9651)。
 
 一言以蔽之：行为准则（rules of behavior）。
 
@@ -83,11 +87,29 @@ style: /assets/articles/code-of-conduct/style
 
 这里“code of conduct”的“code”正是第三个义项。类似的表达还有“an unwritten code”（不成文的规定）、“a code of practice”（行业规则）、“a code of ethics”（道德规范）。
 
-词源上，code 最早的现代意义是第三个义项（法典），出现于 18 世纪中叶，来自中古英语（_code_）← 古法语（_code_）← 拉丁语（_cōdex_）。（今天英语中 codex 同源。）据[牛津词典](https://www.lexico.com/definition/code)，这个词最初指查士丁尼等罗马大帝制订的法典。_cōdex_ 似乎原本指一种古人用来写字著书的木片。（→[Wiktionary](https://en.wiktionary.org/wiki/code#Etymology_1)、[牛津词典](https://www.lexico.com/definition/codex)）
+词源上，code 最早的现代意义是第三个义项（法典），出现于 18 世纪中叶的中古英语（code）。这个词又最初源于拉丁语（cōdex），和今天英语中 codex 一样。（如图）据[牛津词典](https://www.lexico.com/definition/code)，这个词最初指查士丁尼等罗马大帝制订的法典。_cōdex_ 似乎原本指一种古人用来写字著书的木片。（→[Wiktionary](https://en.wiktionary.org/wiki/code#Etymology_1)、[牛津词典](https://www.lexico.com/definition/codex)）
+
+<figure>
+    <div class="mermaid">
+        graph LR
+            subgraph 现代英语
+                code
+                codex
+            end
+            
+            latin[拉丁语<br>cōdex]
+            --> italian[古法语<br>code]
+            --> middle_english[中古英语<br>code]
+            --> code
+            
+            latin -.-> codex
+    </div>
+    <figcaption>code 的词源</figcaption>
+</figure>
 
 （猜测并）总结一下，code 的意思一路泛化，罗马法典 → 法典 → 规范 → 代码，“code of conduct”中是“规范”。近几十年计算机技术发展，“代码”又渐渐专指编程写的东西。
 
-至于 conduct，大家天天做物理实验，应该比较熟悉这个词，就不介绍了。只强调一下此处作名词，重音在前（`ˈkɒndʌkt/`；作动词时重音才在后，读`/kənˈdʌkt/ `）。
+至于 conduct，大家天天做物理实验，应该比较熟悉这个词，就不介绍了。只强调一下此处作名词，重音在前（`ˈkɒndʌkt/`；作动词时重音才在后，读`/kənˈdʌkt/`）。
 
 （另外“*c*ode of *c*onduct”押头韵，重音一致也可能更舒服。押头韵的更多例子：知识类视频的“pause and ponder”、异步编程的`async`/`await`~~、“Bank of Beijing”~~……）
 
