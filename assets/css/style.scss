@@ -40,9 +40,11 @@ figcaption {
 }
 
 #main-content {
-    figure > img {
+    figure > img,
+    figure > .mermaid {
         display: flex;
         margin: auto;
         max-width: min(40em, 100%);
+        justify-content: center;
     }
 }
