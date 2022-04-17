@@ -5,7 +5,7 @@ description: 用了一点儿数学，没有一点儿数学。
 math: true
 ---
 
-> 2022 年 4 月 16 日。
+> 2022 年 4 月 16—17 日。
 
 ## 示例
 
@@ -101,7 +101,7 @@ $$
 
 -   向量有方向（正负）。
 
-    比较向量 $\vec u$ 与 $\vec v$ 时，可以比在 $\R$ 中的象（$u$ 和 $v$），也可以比图示有向线段的长度（$\abs{\vec u}$ 和 $\abs{\vec u}$）。不过比后者就没必要搞向量了。
+    比较向量 $\vec u$ 与 $\vec v$ 时，可以比在 $\R$ 中的象（$u$ 和 $v$），也可以比图示有向线段的长度（$\abs{\vec u}$ 和 $\abs{\vec v}$）。不过比后者就没必要搞向量了。
 
 -   $\vec u < 0$ 时仍然 $u > 0$。
 
@@ -203,5 +203,17 @@ $$
 
 <figure>
     <img src="{{ '/assets/articles/carrier-concentration/basics.svg' | relative_url }}" alt=''>
-    <figcaption>能带中的几个浓度</figcaption>
+    <figcaption>能带中</figcaption>
+</figure>
+
+杂质能级上同理，但电离了的和未电离的浓度退化条件互斥。
+
+<figure>
+    <img src="{{ '/assets/articles/carrier-concentration/n-trap.svg' | relative_url }}" alt=''>
+    <figcaption>施主能带上</figcaption>
+</figure>
+
+<figure>
+    <img src="{{ '/assets/articles/carrier-concentration/p-trap.svg' | relative_url }}" alt=''>
+    <figcaption>受主能级上</figcaption>
 </figure>
