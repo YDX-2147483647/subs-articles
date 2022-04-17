@@ -130,6 +130,15 @@ $$
     -   $n_D^+$：电离施主。
     -   $p_A^-$：电离受主。
 
+-   能级
+
+    -   $E_c$：导带（conduction）底。
+    -   $E_v$：价带（valence）顶。
+    -   $E_F$：Fermi（能级）。
+    -   $E_i$：本征下的 $E_F$。
+    -   $E_D$：施主。
+    -   $E_A$：受主。
+
 -   有效状态密度
 
     -   $N_c$：导带（底）。
@@ -139,15 +148,6 @@ $$
 
     -   $g_D$：施主。
     -   $g_A$：受主。
-
--   能级
-
-    -   $E_c$：导带（conduction）底。
-    -   $E_v$：价带（valence）顶。
-    -   $E_F$：Fermi（能级）。
-    -   $E_i$：本征下的 $E_F$。
-    -   $E_D$：施主。
-    -   $E_A$：受主。
 
 </details>
 
@@ -210,7 +210,7 @@ $$
 
 <figure>
     <img src="{{ '/assets/articles/carrier-concentration/n-trap.svg' | relative_url }}" alt=''>
-    <figcaption>施主能带上</figcaption>
+    <figcaption>施主能级上</figcaption>
 </figure>
 
 <figure>
