@@ -11,6 +11,8 @@ description: 北理特色记网址？
 
 请注意，校内无法使用 [WebVPN](https://webvpn.bit.edu.cn/)。（用手机流量可以）
 
+而在校外想要访问内网时，一般通过 [WebVPN 目录](https://webvpn.bit.edu.cn/)，也可使用 [GitHub 上同学做的各种工具](https://github.com/search?q=bit+webvpn)。
+
 不必太记忆那些网址——你要用时，通知你的人会告诉你的。
 
 ## 大“学”
