@@ -6,6 +6,8 @@ math: true
 ---
 
 > 2022 年 4 月 16—17 日。
+>
+> 本文的其它版本：[WriteBug.com](https://www.writebug.com/explore/article/070l9Ped)。
 
 ## 示例
 
