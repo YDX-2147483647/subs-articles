@@ -10,7 +10,7 @@ mermaid: true
 
 > 2022 年 1 月 28 日、2 月 4–7 日。
 >
-> 本文的其它版本：[微信](https://mp.weixin.qq.com/s/zccs-RgZjSbonUMZg0jykg)、[WriteBug.com](https://www.writebug.com/group/article/9651)。
+> 本文的其它版本：[微信](https://mp.weixin.qq.com/s/zccs-RgZjSbonUMZg0jykg)、[WriteBug.com](https://www.writebug.com/explore/article/resvent1)。
 
 一言以蔽之：行为准则（rules of behavior）。
 

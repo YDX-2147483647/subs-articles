@@ -8,6 +8,8 @@ math: true
 # 无限长带电圆柱面
 
 > 2022年11月6日，2022年11月16–17日。
+>
+> 本文的其它版本：[WriteBug.com](https://www.writebug.com/explore/article/RtU7vqDH)。
 
 ## 情景
 
