@@ -16,7 +16,7 @@ plugins:
 collections:
   articles:
     output: true
-    permalink: /:name/
+    permalink: /:name
 
 defaults:
   - scope:
