@@ -47,4 +47,10 @@ figcaption {
         max-width: min(40em, 100%);
         justify-content: center;
     }
+
+    img.icon {
+        display: inline;
+        vertical-align: middle;
+        height: 1.2em;
+    }
 }
