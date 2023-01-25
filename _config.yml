@@ -17,6 +17,9 @@ collections:
   articles:
     output: true
     permalink: /:name
+  slides:
+    output: true
+    permalink: /:collection/:path
 
 defaults:
   - scope:

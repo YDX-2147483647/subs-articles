@@ -6,6 +6,8 @@ description: BIT × RDFZ
 # 北京理工大学分专业宣讲·电子信息大类
 
 > 2022年2月18日，2023年1月25日。
+> 
+> 本文的其它版本：[幻灯片]({{ '/slides/si-yuan-electronic-engineering/' | relative_url }})。
 
 <details markdown="1">
 <summary>以往宣讲信息</summary>
