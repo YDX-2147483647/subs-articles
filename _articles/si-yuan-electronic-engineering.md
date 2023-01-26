@@ -52,7 +52,7 @@ description: BIT × RDFZ
 
     - 电子科学与技术
     - 微电子科学与工程
-    - 王小谟英才班？
+    - 王小谟英才班？特立英才班才可以选。
     - <del>电子科学与技术（全英文）</del> 其它专业也有，不知为何单独标了。
 
   - [![]({{ '/assets/articles/si-yuan-electronic-engineering' | relative_url }}/logo-opt.png){: .icon} **光电**](https://opt.bit.edu.cn)：另有同学负责，这里不介绍。
