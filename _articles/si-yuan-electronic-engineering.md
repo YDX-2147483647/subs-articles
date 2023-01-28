@@ -195,6 +195,8 @@ description: BIT × RDFZ
 
 ## 另请参阅
 
+- [北京市普通高校招生专业目录 (bjeea.cn)](https://www.bjeea.cn/html/gkgz/tzgg/2022/1025/82539.html)，2022年10月28日。
+- [历年分专业分数 (admission.bit)](https://admission.bit.edu.cn/static/front/bit/basic/html_web/lnfs.html)，目前只到2021年。
 - [招生计划 (admission.bit)](https://admission.bit.edu.cn/static/front/bit/basic/html_web/zsjh.html)，目前只有2022年的。
 - [睿信书院专业学院介绍](https://mp.weixin.qq.com/s/MM00Ay5MS-Tq6a8dugEjCQ)，2022年8月23日。
 - [信息与电子学院 - 本科专业介绍 (sie.bit)](https://sie.bit.edu.cn/rcpy/bkspy/bksjx/1052f95a2f8b41a887a78cc08796edf2.htm)，2021年12月27日。
