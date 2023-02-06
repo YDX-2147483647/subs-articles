@@ -8,6 +8,8 @@ description: BIT × RDFZ
 > 2022年2月18日，2023年1月25日。
 > 
 > 本文的其它版本：[幻灯片]({{ '/slides/si-yuan-electronic-engineering/' | relative_url }})。
+>
+> 相关内容：[2023年汇总](https://mp.weixin.qq.com/s/dHySY5uXFklD8BEVAFoRYg)。
 
 <details markdown="1">
 <summary>以往宣讲信息</summary>
