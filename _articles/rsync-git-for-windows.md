@@ -7,7 +7,7 @@ mermaid: true
 
 # 利用 Git for Windows 使用 rsync
 
-> 2022年10月9–10日。
+> 2022年10月9–10日，2023年7月14日。
 >
 > 本文的其它版本：[WriteBug.com](https://www.writebug.com/explore/article/YSCCk7Vt)。
 
@@ -163,6 +163,8 @@ MSYS2 本身有包管理器，但 Git for Windows 中的是精简版，我们需
    Web site: https://rsync.samba.org/
    ……
    ```
+
+   大约 git 2.41.0 升级了 MSYS2 版本，`/usr/bin/`只有`msys-crypto-3.dll`，而无`msys-crypto-1.1.dll`。若提示缺失，请仿照之前操作安装`libopenssl`（1.1版本）。
 
 至此，应当可以在 Git Bash 中使用 rsync。具体使用方法请参考[手册](https://download.samba.org/pub/rsync/rsync.1)。
 
